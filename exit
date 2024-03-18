@@ -1,0 +1,35 @@
+[33mcommit cf5078494e5c9c77894e0140c86c559dcf31061c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/sidebar[m[33m, [m[1;32msidebar[m[33m)[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sun Mar 17 16:54:06 2024 +0100
+
+    Loaded the data to our local PostGresDB
+
+[33mcommit 8963353238c38757f4df12cedf7d6c0934f7a996[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sun Mar 17 14:45:50 2024 +0100
+
+    Extracted the TableData via Webscrapping
+
+[33mcommit 6c9a2b5fc61e12f55cb168baaed686808fa10745[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sun Mar 17 14:32:49 2024 +0100
+
+    stable test
+
+[33mcommit f1108a448ab9bfadc148d66033aee5649f345080[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sun Mar 17 14:29:03 2024 +0100
+
+    test checkout
+
+[33mcommit 9507c5d3ae3c0b0aeeb24ec28b2ee7323bd05575[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sun Mar 17 14:18:11 2024 +0100
+
+    hello new world
+
+[33mcommit fc3300b7858b3318ec9fcab578d9a50c1c5cb6e4[m
+Author: Fejiro Eruotor <fejiroeruotor@gmail.com>
+Date:   Sat Mar 16 14:11:02 2024 +0100
+
+    Added Header Rows
